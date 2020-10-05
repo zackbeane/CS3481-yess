@@ -1,0 +1,19 @@
+9/19/2019: imported Tools.C and Tools.h.
+9/19/2019: Created Ross.log and merged.
+9/19/2019: Updated and pushed makefile.
+9/19/2019: Updated and pushed ConditionCodes.C.
+9/26/2019: Unneeded files were removed
+9/26/2019: All files were merged successfully.
+10/3/2019: All compilation errors were fixed
+10/7/2019: All errors were finished but lab wasn't completed.
+10/21/2019: Lab 6 is making good progress. Zack has been working on Lab 7 in the mean time.
+10/25/2019: Memory, Decode, and Execute stages for lab7 completed.
+10/28/2019: lab7 was completed successfully. Lab 8 has been pushed. The tests didn't pass, but it compiles and I believe it is mostly right.
+11/04/2019: after many failed attempts finally fixed all but 2 of the has error checks and completed the coding portion of lab9.
+11/07/2019: Had to start over from lab 7. Finished ExecuteStage.C and h
+11/9/2019: Finished lab 7. Test passes.
+11/12/2019: Worked on FetchStage for lab 8.
+11/27/2019: Finished lab 8. Tests pass.
+11/30/2019: Started lab 9. Made good progress.
+12/2/2019: Worked on lab 9 for many many hours, finished it. Tests pass.
+12/3/2019: Finished lab 10. Started lab 11.
